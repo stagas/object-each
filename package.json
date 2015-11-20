@@ -1,0 +1,21 @@
+{
+  "name": "object-each",
+  "version": "1.0.0",
+  "description": "iterate over an object entries",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stagas/object-each.git"
+  },
+  "keywords": [
+    "object",
+    "each",
+    "foreach"
+  ],
+  "author": "stagas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stagas/object-each/issues"
+  },
+  "homepage": "https://github.com/stagas/object-each#readme"
+}
